@@ -22,25 +22,25 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btnBlitar"
+                android:id="@+id/btnSolo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Srengat" />
+                android:text="Solo" />
 
             <Button
-                android:id="@+id/btnMalang"
+                android:id="@+id/btnSemarang"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Malang" />
+                android:text="Semarang" />
 
             <Button
-                android:id="@+id/btnSby"
+                android:id="@+id/btnBandung"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Surabaya" />
+                android:text="Bandung" />
 
         </LinearLayout>
 
